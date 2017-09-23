@@ -1,27 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/papretreat/papr2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# To do list website
-
-- Create and add link to facebook page
-- Update dates for 2018 retreat
-- Update costs for post-doc, partners and children
-- Add links to UCLA lake Arrowhead Conference Center and map
-- Add link for registration
-- Last update date/hour???
-- Anything else???
-- Add pictures from last year??
-
 # What is PAPR?
 
 The purpose of this informal meeting is to bring together postdocs from the various astrononomy institutes in Pasadena (Carnegie, Caltech Astro/GPS, IPAC, and JPL), and to get to know each other's science. Building on previous years' experience, the retreat is an opportunity to cross institutional boundaries, foster new collaborations, and enrich the experience of being an astronomy postdoc in the City of Astronomy.
@@ -72,28 +48,3 @@ Alex Merson (JPL/Caltech)
 Stefano Pasetto (Carnegie)
 Harish Vedantham (Caltech)
 Marie Ygouf (IPAC/Caltech)
-
-
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/papretreat/papr2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
