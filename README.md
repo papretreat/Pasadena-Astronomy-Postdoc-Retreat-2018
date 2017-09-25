@@ -47,11 +47,9 @@ List of participants is coming soon
 
 Elodie Choquet (JPL/Caltech)
 
-Thomas Connor (Caltech)
-
 Daniel Lenz (JPL/Caltech)
 
-Alex Merson (JPL/Caltech)
+Alex Merson (JPL/IPAC)
 
 Stefano Pasetto (Carnegie)
 
