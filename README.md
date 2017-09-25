@@ -49,7 +49,7 @@ Elodie Choquet (JPL/Caltech)
 
 Thomas Connor (Caltech)
 
-Daniel Lenz (JPL)
+Daniel Lenz (JPL/Caltech)
 
 Alex Merson (JPL/Caltech)
 
