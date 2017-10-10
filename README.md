@@ -6,17 +6,19 @@ This (academic) year's retreat will be held sometimes next spring. The program w
 
 # Funding
 
-Information is coming soon
+Information is coming soon.
 
 # Location
 
-The retreat will be held at the magnificent UCLA Lake Arrowhead Conference Center, which is a convenient 2 hour drive from Pasadena. Some say that Lake Arrowhead is the premier mountain resort in the San Bernardino Forest.
+The retreat will be held at the magnificent [UCLA Lake Arrowhead Conference Center](http://lakearrowheadconferencecenter.ucla.edu), which is a convenient 2 hour drive from Pasadena. Some say that Lake Arrowhead is the premier mountain resort in the San Bernardino Forest.
 
 # Registration
 
 Registration link is coming soon
 
 # Transportation / carpools
+
+We will set up google spreadsheet to organize carpooling.
 
 # Accommodations and meals
 
@@ -25,6 +27,8 @@ The UCLA conference center will fully accommodate and cater for us. The 'condole
 The conference center will cater for all meals, which are covered in the cost of the retreat. They will accommodate all dietary requirements detailed during registration.
 
 # Pre-retreat hike
+
+Similar to last year, there will be an optional pre-retreat hike in the morning before we meet at the conference center for the retreat. The [Sawmill Road Loop Trail](https://www.alltrails.com/explore/trail/us/california/sawmill-road-loop-trail) is only 3 miles long, features wonderful views, and is just a 5-minute drive from the conference center. More information will follow!
 
 # Program
 
