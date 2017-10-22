@@ -8,8 +8,9 @@ This (academic) year's retreat will be held sometimes next spring. The program w
 
 The retreat traditionally begins on a Wednesday afternoon and ends at noon the next Friday.
 We are considering two possible dates for the 2018 retreat:
-- April 25-27, 2018
-- May 9-11, 2018
+  - April 25-27, 2018
+  - May 9-11, 2018
+
 
 We will organize the retreat at the date that works for the more postdocs, pending availability at the conference center.
 
@@ -32,6 +33,8 @@ After the deadline, late registrations will be possible but will not guarantee y
 We are considering two possible dates for the 2018 retreat:
 - April 25-27, 2018
 - May 9-11, 2018
+
+
 If you are sure that you are able to attend the retreat at either of these dates, please register by filling this [form](https://docs.google.com/forms/d/e/1FAIpQLSecc2yi_9u_OLpYT5LXl2T-i2RytksHzp3CxrSUEwQkgP3jzg/viewform) by November 30th.
 
 # Transportation / carpools
