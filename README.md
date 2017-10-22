@@ -1,4 +1,4 @@
-# What is PAPR?
+# PAPR 2018
 
 The purpose of this informal meeting is to bring together postdocs from the various astrononomy institutes in Pasadena (Carnegie, Caltech Astro/GPS, IPAC, and JPL), and to get to know each other's science. Building on previous years' experience, the retreat is an opportunity to cross institutional boundaries, foster new collaborations, and enrich the experience of being an astronomy postdoc in the City of Astronomy.
 
@@ -14,7 +14,7 @@ The retreat will be held at the magnificent [UCLA Lake Arrowhead Conference Cent
 
 # Registration
 
-Registration link is coming soon
+[Registration link](https://docs.google.com/forms/d/e/1FAIpQLSecc2yi_9u_OLpYT5LXl2T-i2RytksHzp3CxrSUEwQkgP3jzg/viewform)
 
 # Transportation / carpools
 
@@ -32,7 +32,7 @@ Similar to last year, there will be an optional pre-retreat hike in the morning 
 
 # Program
 
-# Program is coming soon
+Program is coming soon
 
 # Talks 
 
