@@ -13,6 +13,7 @@ Information is coming soon.
 The retreat will be held at the magnificent [UCLA Lake Arrowhead Conference Center](http://lakearrowheadconferencecenter.ucla.edu), which is a convenient 2 hour drive from Pasadena. Some say that Lake Arrowhead is the premier mountain resort in the San Bernardino Forest.
 
 ![Lake Arrowhead](https://github.com/papretreat/papr2018/blob/master/IMG_20170510_110101.jpg)
+<img src="IMG_20170510_110101.jpg" class="img-responsive" alt=""> </div>
 
 # Registration
 
