@@ -4,7 +4,7 @@ The purpose of this informal meeting is to bring together postdocs from the vari
 
 This (academic) year's retreat will be held sometimes next spring. The program will include a mix of brief research talks by attendees, and several social gatherings. We will also have invited spakers with academic and non-academic jobs provide career-related perspective and advice, enabling postdocs to explore a variety of career paths.
 
-# When
+# When is PAPR 2018?
 
 The retreat traditionally begins on a Wednesday afternoon and ends at noon the next Friday.
 We are considering two possible dates for the 2018 retreat:
