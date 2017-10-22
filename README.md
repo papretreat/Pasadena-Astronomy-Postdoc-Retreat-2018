@@ -32,6 +32,8 @@ The conference center will cater for all meals, which are covered in the cost of
 
 Similar to last year, there will be an optional pre-retreat hike in the morning before we meet at the conference center for the retreat. The [Sawmill Road Loop Trail](https://www.alltrails.com/explore/trail/us/california/sawmill-road-loop-trail) is only 3 miles long, features wonderful views, and is just a 5-minute drive from the conference center. More information will follow!
 
+![Pre-retreat hike](https://github.com/papretreat/papr2018/blob/master/IMG_20170510_112850.jpg)
+
 # Program
 
 Program is coming soon
