@@ -12,8 +12,7 @@ Information is coming soon.
 
 The retreat will be held at the magnificent [UCLA Lake Arrowhead Conference Center](http://lakearrowheadconferencecenter.ucla.edu), which is a convenient 2 hour drive from Pasadena. Some say that Lake Arrowhead is the premier mountain resort in the San Bernardino Forest.
 
-![Lake Arrowhead](https://github.com/papretreat/papr2018/blob/master/IMG_20170510_110101.jpg)
-<img src="IMG_20170510_110101.jpg" class="img-responsive" alt=""> </div>
+<img src="IMG_20170510_110101.jpg" class="img-responsive" alt="">
 
 # Registration
 
@@ -33,7 +32,7 @@ The conference center will cater for all meals, which are covered in the cost of
 
 Similar to last year, there will be an optional pre-retreat hike in the morning before we meet at the conference center for the retreat. The [Sawmill Road Loop Trail](https://www.alltrails.com/explore/trail/us/california/sawmill-road-loop-trail) is only 3 miles long, features wonderful views, and is just a 5-minute drive from the conference center. More information will follow!
 
-![Pre-retreat hike](https://github.com/papretreat/papr2018/blob/master/IMG_20170510_112850.jpg)
+<img src="IMG_20170510_112850.jpg" class="img-responsive" alt="">
 
 # Program
 
