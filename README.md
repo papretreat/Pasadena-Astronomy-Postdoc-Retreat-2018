@@ -16,7 +16,8 @@ We will organize the retreat at the date that works for the more postdocs, pendi
 
 # Funding
 
-Information is coming soon.
+Caltech astronomy and Carnegie will fund 50% of the cost of the retreat for its postdocs, which will correspond to approximately $250. The rest of the funding will have to come from the postdoc's travel funds.
+For the other institutions, there is unfortunately no funding available and thus 100% will have to come from the personal travel fund.
 
 # Location
 
