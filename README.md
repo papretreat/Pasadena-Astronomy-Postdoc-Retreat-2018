@@ -68,7 +68,29 @@ List of invited speakers is coming soon
 
 # Registered Participants
 
-List of participants is coming soon
+- Elodie Choquet
+- Daniel Lenz
+- Max Millar-Blanchaer
+- Andreas Faisst
+- Jacqueline McCleary
+- Harish Vedantham
+- Siegfried Eggl
+- Decker French
+- Thomas Connor
+- Alex Merson
+- Bomee Lee
+- Albert Izar
+- Shahab Arabshah
+- Iary Davidzo
+- Vikram Ravi
+- Abby Crites
+- Sebastian Kiehlmann
+- Ji Wang
+- Maria Charisi
+- Nina Hernitschek
+- Marianne Heida
+- Cameron Hummels
+- Riley Connors
 
 # Organizing Committee
 
