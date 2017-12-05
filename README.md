@@ -24,16 +24,9 @@ The retreat will be held at the magnificent [UCLA Lake Arrowhead Conference Cent
 
 # Registration
 
-Registering will guarantee you a spot if the actual retreat date matches your choices, as we will book the venue in early December based on most popular date and its number of registered people.
-Note that by registering for either or both date, you are also committing to pay for your stay if the retreat date matches your choices. This means that cancellation after the deadline can only be done by finding another attendee to take your spot. Otherwise, you will have to pay the registration fees.
-After the deadline, late registrations will be possible but will not guarantee you a spot.
+Registering will guarantee you a spot if you register until the November 30th deadline. After the deadline, late registrations will be possible, but will not guarantee you a spot.
 
-We are considering two possible dates for the 2018 retreat:
-- April 25-27, 2018
-- May 9-11, 2018
-
-
-If you are sure that you are able to attend the retreat at either of these dates, please register by filling this [form](https://docs.google.com/forms/d/e/1FAIpQLSecc2yi_9u_OLpYT5LXl2T-i2RytksHzp3CxrSUEwQkgP3jzg/viewform) by November 30th.
+Please register by filling out the [registration form here](https://docs.google.com/forms/d/e/1FAIpQLSecc2yi_9u_OLpYT5LXl2T-i2RytksHzp3CxrSUEwQkgP3jzg/viewform).
 
 # Transportation / carpools
 
