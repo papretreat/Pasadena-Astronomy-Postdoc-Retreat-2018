@@ -6,10 +6,7 @@ This (academic) year's retreat will be held sometimes next spring. The program w
 
 # When is PAPR 2018?
 
-The retreat traditionally begins on a Wednesday afternoon and ends at noon the next Friday.
-We are considering two possible dates for the 2018 retreat:
-  - April 25-27, 2018
-  - May 9-11, 2018
+The 2018 retreat will take place Wednesday afternoon to Friday noon, **May 9-11, 2018**.
 
 
 We will organize the retreat at the date that works for the more postdocs, pending availability at the conference center.
