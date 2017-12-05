@@ -82,6 +82,27 @@ List of invited speakers is coming soon
 - Marianne Heida
 - Cameron Hummels
 - Riley Connors
+- Georgia Panopoulou
+- Shea Garrison-Kimmel
+- Hannah Earnshaw
+- Virginie Faramaz
+- Marie Ygouf
+- Sean Mills
+- Arpita Roy
+- Abhishek Prakash
+- Trevor David
+- Anne Medling
+- Coral Wheeler
+- Nadia Blagorodnova
+- Eve Lee
+- Rosalie McGurk
+- Allison Strom
+- Garreth Ruane
+- Kirsten Larson
+- Alexander Ji
+- Tom Holoien
+- Johanna Teske
+- Maria Drout
 
 # Organizing Committee
 
