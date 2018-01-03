@@ -58,61 +58,46 @@ List of invited speakers is coming soon
 
 # Registered Participants
 
-- Shahab Arabshah
-- Nadia Blagorodnova
+- Shahab Arabshahi
 - Maria Charisi
-- Elodie Choquet
 - Thomas Connor
 - Riley Connors
-- Abby Crites
 - Trevor David
 - Iary Davidzon
 - Maria Drout
 - Hannah Earnshaw
-- Siegfried Eggl
 - Andreas Faisst
 - Virginie Faramaz
 - Decker French
 - Shea Garrison-Kimmel
+- Rohini Giles
 - Marianne Heida
 - Nina Hernitschek
 - Tom Holoien
 - Cameron Hummels
-- Albert Izar
-- Alexander Ji
+- Albert Izard
 - Sebastian Kiehlmann
 - Kirsten Larson
 - Bomee Lee
 - Eve Lee
-- Daniel Lenz
 - Jacqueline McCleary
 - Rosalie McGurk
 - Anne Medling
-- Alex Merson
 - Max Millar-Blanchaer
 - Sean Mills
-- Georgia Panopoulou
 - Abhishek Prakash
 - Vikram Ravi
 - Arpita Roy
 - Garreth Ruane
 - Allison Strom
 - Johanna Teske
-- Harish Vedantham
 - Ji Wang
-- Coral Wheeler
-- Marie Ygouf
 
 # Organizing Committee
 
 Elodie Choquet (JPL/Caltech)
-
 Daniel Lenz (JPL/Caltech)
-
 Alex Merson (JPL/IPAC)
-
 Stefano Pasetto (Carnegie)
-
 Harish Vedantham (Caltech)
-
 Marie Ygouf (IPAC/Caltech)
