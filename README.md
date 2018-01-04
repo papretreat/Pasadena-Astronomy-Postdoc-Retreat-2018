@@ -87,6 +87,7 @@ List of invited speakers is coming soon
 - Alex Merson
 - Max Millar-Blanchaer
 - Sean Mills
+- Stefano Pasetto
 - Abhishek Prakash
 - Arpita Roy
 - Garreth Ruane
