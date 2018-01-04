@@ -76,6 +76,7 @@ List of invited speakers is coming soon
 - Nina Hernitschek
 - Tom Holoien
 - Cameron Hummels
+- Albert Izard
 - Sebastian Kiehlmann
 - Kirsten Larson
 - Bomee Lee
