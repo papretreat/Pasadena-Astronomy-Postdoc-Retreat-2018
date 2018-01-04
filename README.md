@@ -90,6 +90,7 @@ List of invited speakers is coming soon
 - Sean Mills
 - Stefano Pasetto
 - Abhishek Prakash
+- Vikram Ravi
 - Arpita Roy
 - Garreth Ruane
 - Allison Strom
