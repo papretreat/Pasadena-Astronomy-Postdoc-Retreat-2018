@@ -58,7 +58,7 @@ List of invited speakers is coming soon
 
 # Registered Participants
 
-- Shahab Arabshah
+- Shahab Arabshahi
 - Maria Charisi
 - Elodie Choquet
 - Thomas Connor
