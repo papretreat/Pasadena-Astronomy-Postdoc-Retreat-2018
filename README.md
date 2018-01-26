@@ -50,7 +50,7 @@ Similar to last year, there will be an optional pre-retreat hike in the morning 
 ## Confirmed speakers
 
 - Tiffany Kataria - Scientist at Jet Propulsion Laboratory
-- Farisa Morales - Professor at California State University, Northridge, 
+- Farisa Morales - Professor at California State University, Northridge 
 - Will Sentance - CEO & Head of Engineering at Codesmith
 - Teagan Wall - Emmy-nominated writer, speaker and science communicator 
 
