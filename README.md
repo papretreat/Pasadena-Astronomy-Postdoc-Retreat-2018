@@ -6,10 +6,10 @@ This (academic) year's retreat will be held sometimes next spring. The program w
 
 # When is PAPR 2018?
 
-The 2018 retreat will take place Wednesday afternoon to Friday noon, **May 9-11, 2018**.
-
-
 We will organize the retreat at the date that works for the more postdocs, pending availability at the conference center.
+
+Update: The 2018 retreat will take place Wednesday afternoon to Friday noon, **May 9-11, 2018**.
+Facebook page: https://www.facebook.com/events/1680920865305936/
 
 # Funding
 
@@ -46,7 +46,16 @@ Similar to last year, there will be an optional pre-retreat hike in the morning 
 
 # Program
 
-Program is coming soon
+## Confirmed speakers
+
+- Tiffany Kataria - Scientist at Jet Propulsion Laboratory
+- Farisa Morales - Professor at California State University, Northridge, 
+- Will Sentance - CEO & Head of Engineering at Codesmith
+- Teagan Wall - Emmy-nominated writer, speaker and science communicator 
+
+## Detailed program 
+
+Coming soon
 
 # Talks 
 
@@ -102,13 +111,8 @@ List of invited speakers is coming soon
 # Organizing Committee
 
 Elodie Choquet (JPL/Caltech)
-
 Daniel Lenz (JPL/Caltech)
-
 Alex Merson (JPL/IPAC)
-
 Stefano Pasetto (Carnegie)
-
 Harish Vedantham (Caltech)
-
 Marie Ygouf (IPAC/Caltech)
