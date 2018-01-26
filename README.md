@@ -9,6 +9,7 @@ This (academic) year's retreat will be held sometimes next spring. The program w
 We will organize the retreat at the date that works for the more postdocs, pending availability at the conference center.
 
 Update: The 2018 retreat will take place Wednesday afternoon to Friday noon, **May 9-11, 2018**.
+
 Facebook page: https://www.facebook.com/events/1680920865305936/
 
 # Funding
