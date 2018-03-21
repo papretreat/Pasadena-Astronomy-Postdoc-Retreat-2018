@@ -14,7 +14,7 @@ Facebook page: https://www.facebook.com/events/1680920865305936/
 
 # Funding
 
-Caltech astronomy and Carnegie will fund 50% of the cost of the retreat for its postdocs, which will correspond to approximately $250. The rest of the funding will have to come from the postdoc's travel funds.
+Carnegie will fund 100% of the cost of the retreat for its postdocs. Caltech astronomy will fund 50% of the cost of the retreat for its postdocs, which will correspond to approximately $250. The rest of the funding will have to come from the postdoc's travel funds.
 For the other institutions, there is unfortunately no funding available and thus 100% will have to come from the personal travel fund.
 
 # Location
@@ -51,7 +51,6 @@ Similar to last year, there will be an optional pre-retreat hike in the morning 
 
 - Tiffany Kataria - Scientist at Jet Propulsion Laboratory
 - Farisa Morales - Professor at California State University, Northridge 
-- Will Sentance - CEO & Head of Engineering at Codesmith
 - Teagan Wall - Emmy-nominated writer, speaker and science communicator 
 
 ## Detailed program 
