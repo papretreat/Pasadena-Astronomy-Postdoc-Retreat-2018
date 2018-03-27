@@ -82,11 +82,11 @@ List of invited speakers is coming soon
 - Rohini Giles
 - Marianne Heida
 - Nina Hernitschek
-- Tom Holoien
 - Cameron Hummels
 - Albert Izard
 - Sebastian Kiehlmann
 - Kirsten Larson
+- Bomee Lee
 - Eve Lee
 - Daniel Lenz
 - Jacqueline McCleary
@@ -95,6 +95,8 @@ List of invited speakers is coming soon
 - Alex Merson
 - Max Millar-Blanchaer
 - Sean Mills
+- Daniel Paardekooper
+- Gina Panopoulou
 - Stefano Pasetto
 - Abhishek Prakash
 - Vikram Ravi
