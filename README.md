@@ -86,7 +86,6 @@ List of invited speakers is coming soon
 - Albert Izard
 - Sebastian Kiehlmann
 - Kirsten Larson
-- Bomee Lee
 - Eve Lee
 - Daniel Lenz
 - Jacqueline McCleary
