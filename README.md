@@ -31,7 +31,8 @@ Please register by filling out the [registration form here](https://docs.google.
 
 # Transportation / carpools
 
-We will set up google spreadsheet to organize carpooling.
+Fill out this spreadsheet to inform us if you need a ride to the retreat or can provide rides to others:
+https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=drive_web&ouid=106650781263756717976
 
 # Accommodations and meals
 
@@ -51,7 +52,8 @@ Similar to last year, there will be an optional pre-retreat hike in the morning 
 
 - Tiffany Kataria - Scientist at Jet Propulsion Laboratory
 - Farisa Morales - Professor at California State University, Northridge 
-- Teagan Wall - Emmy-nominated writer, speaker and science communicator 
+- Teagan Wall - Emmy-nominated writer, speaker and science communicator
+- Jake Hartman - Software Engineer at Google
 
 ## Detailed program 
 
@@ -104,7 +106,7 @@ List of invited speakers is coming soon
 - Allison Strom
 - Johanna Teske
 - Harish Vedantham
-- Ji Wang
+- Coral Wheeler
 - Marie Ygouf
 
 # Organizing Committee
