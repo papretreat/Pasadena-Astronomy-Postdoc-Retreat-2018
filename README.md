@@ -32,7 +32,7 @@ Please register by filling out the [registration form here](https://docs.google.
 # Transportation / carpools
 
 Fill out this spreadsheet to inform us if you need a ride to the retreat or can provide rides to others:
-https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=drive_web&ouid=106650781263756717976
+[Spreadsheet here!](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=drive_web&ouid=106650781263756717976)
 
 # Accommodations and meals
 
