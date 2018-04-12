@@ -10,7 +10,7 @@ We will organize the retreat at the date that works for the more postdocs, pendi
 
 Update: The 2018 retreat will take place Wednesday afternoon to Friday noon, **May 9-11, 2018**.
 
-Facebook page: https://www.facebook.com/events/1680920865305936/
+We also have a [Facebook page!](https://www.facebook.com/events/1680920865305936/)
 
 # Funding
 
@@ -57,15 +57,13 @@ Similar to last year, there will be an optional pre-retreat hike in the morning 
 
 ## Detailed program 
 
-Coming soon
+Coming soon!
 
 # Talks 
 
 All participants will give informal super-short (and super exciting) presentations on their research. These will be an opportunity for postdocs to develop skills in presenting compelling portraits of their work, and for the audience to learn more about the remarkable science being done around them. The exact format is being determined; please contact the organizing committee if you have any suggestions!
 
 We will also have a few invited speakers who will give talks regarding matters relevant to the postdoc comunity like career advice, the academic job market, and the transition to industry.
-
-List of invited speakers is coming soon
 
 # Registered Participants
 
@@ -111,9 +109,9 @@ List of invited speakers is coming soon
 
 # Organizing Committee
 
-Elodie Choquet (JPL/Caltech)
-Daniel Lenz (JPL/Caltech)
-Alex Merson (JPL/IPAC)
-Stefano Pasetto (Carnegie)
-Harish Vedantham (Caltech)
-Marie Ygouf (IPAC/Caltech)
+- Elodie Choquet (JPL/Caltech)
+- Daniel Lenz (JPL/Caltech)
+- Alex Merson (JPL/IPAC)
+- Stefano Pasetto (Carnegie)
+- Harish Vedantham (Caltech)
+- Marie Ygouf (IPAC/Caltech)
