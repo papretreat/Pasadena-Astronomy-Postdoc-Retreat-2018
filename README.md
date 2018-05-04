@@ -10,20 +10,21 @@ This (academic) year's retreat will be held sometimes next spring. The program w
 
 - Send your Introduction slide / Picture / 100-word bio to Harish by email!
 - Fill in the [Emergency Contact Form](https://docs.google.com/forms/d/e/1FAIpQLScELUwpdTU2NrY8IeZrN8So7L08fycAd95YDwyfAeKbF6E7LA/viewform)
-- Provide your Carpool and Roommate preferences on the [Spreadsheet](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=sharing)
+- Provide your Carpool / Roommate / hike preferences on the [Spreadsheet](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=sharing)
 
 # The Venue
 
 ## Transportation / carpools
 
-The retreat will be held at the magnificent [UCLA Lake Arrowhead Conference Center](http://lakearrowheadconferencecenter.ucla.edu), which is a convenient [2 hour](http://lakearrowheadconferencecenter.ucla.edu/about/directions/) drive from Pasadena. 
+The retreat will be held at the magnificent [UCLA Lake Arrowhead Conference Center](http://lakearrowheadconferencecenter.ucla.edu/about/directions/), which is a convenient [2 hour](https://www.google.com/maps/dir/Pasadena,+California/UCLA+Lake+Arrowhead+Conference+Center,+850+Willow+Creek+Rd,+Lake+Arrowhead,+CA+92352/@34.1971218,-117.9448351,10z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x80c2c2dc38330b51:0x52b41161ad18f4a!2m2!1d-118.1445155!2d34.1477849!1m5!1m1!1s0x80c357e80a92254b:0xdc8a5a45759372b0!2m2!1d-117.1866611!2d34.2655173!2m3!6e0!7e2!8j1525865100!3e0) drive from Pasadena. 
 
 We are organizing carpooling options to help everybody go to the venue!
 Fill out this spreadsheet to inform us if you need a ride to the retreat or can provide rides to others:
 [Spreadsheet here!](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=drive_web&ouid=106650781263756717976)
 
 ## Activities
-The Conference Center has plenty of outdoor activities: Swimming pool, Hot tub, Tenis Court, Sand Volleyball Court, Zen deck, Climbing wall...
+The Conference Center has plenty of outdoor activities: 
+Swimming pool, Hot tub, Tenis Court, Sand Volleyball Court, Zen deck, Climbing wall...
 Don't forget to bring your sportwear if you want to enjoy these activities!
 
 <img src="IMG_20170510_110101.jpg" class="img-responsive" alt="">
@@ -33,12 +34,18 @@ Don't forget to bring your sportwear if you want to enjoy these activities!
 
 The UCLA conference center will fully [accommodate](http://lakearrowheadconferencecenter.ucla.edu/accommodations/) and [cater](http://lakearrowheadconferencecenter.ucla.edu/dining/) for us. The 'condolets' at the conference center will accommodate two, and offer a queen size bed with bath downstairs and a second queen size bed with bath upstairs. A living room area with wood-burning fireplace is shared by two conferees. All condolets have expansive decks with potential lake or forest views.
 
+You will share your room with another attendee. 
+Fill in tis [Spreadsheet](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=drive_web&ouid=106650781263756717976) if you have roommate preferences.
+Otherwise we will assign you to a same-gender attendee.
+
+
 The conference center will cater for all meals, which are covered in the cost of the retreat. They will accommodate all dietary requirements detailed during registration. Please provide your dietary restrictions [here](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=sharing).
 
 
 # Program
 
 The retreat will happen on **May 9th to 11th!**
+
 It will start at 2:30pm on Wednesday 9th, and end right after lunch at 1pm on Friday 11th.
 This will give you plenty of time to drive there on Wednesday morning, and drive back to Pasadena on Friday afternoon.
 Note that lunch will not be provided on Wednesday!
@@ -84,7 +91,7 @@ Caltech astronomy will fund 50% of the cost of the retreat for its postdocs. The
 For the other institutions, there is unfortunately no funding available and thus 100% will have to come from the personal travel fund.
 
 
-# Registered Participants
+## Registered Participants
 
 - Shahab Arabshahi
 - Elodie Choquet
