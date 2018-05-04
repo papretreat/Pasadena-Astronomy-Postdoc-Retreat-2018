@@ -12,15 +12,18 @@ Update: The 2018 retreat will take place Wednesday afternoon to Friday noon, **M
 
 We also have a [Facebook page!](https://www.facebook.com/events/1680920865305936/)
 
-# Action Items before the retreat!
+# Outstanding Action Items before the retreat!
 
 - Send your Introductin slide / Picture / 100-word bio to Harish by email!
 - Fill in the [Emergency Contact Form](https://docs.google.com/forms/d/e/1FAIpQLScELUwpdTU2NrY8IeZrN8So7L08fycAd95YDwyfAeKbF6E7LA/viewform)
 - Provide your Carpool and Roommate preferences on the [Spreadsheet](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=sharing)
 
-# Location
+# The Venue
 
-The retreat will be held at the magnificent [UCLA Lake Arrowhead Conference Center](http://lakearrowheadconferencecenter.ucla.edu), which is a convenient [2 hour](http://lakearrowheadconferencecenter.ucla.edu/about/directions/) drive from Pasadena. Some say that Lake Arrowhead is the premier mountain resort in the San Bernardino Forest.
+The retreat will be held at the magnificent [UCLA Lake Arrowhead Conference Center](http://lakearrowheadconferencecenter.ucla.edu), which is a convenient [2 hour](http://lakearrowheadconferencecenter.ucla.edu/about/directions/) drive from Pasadena. 
+
+The Conference Center has plenty of outdoor activities: Swimming pool, Hot tub, Tenis Court, Sand Volleyball Court, Zen deck, Climbing wall...
+Don't forget to bring your sportwear if you want to enjoy these activities!
 
 <img src="IMG_20170510_110101.jpg" class="img-responsive" alt="">
 
@@ -34,7 +37,7 @@ Fill out this spreadsheet to inform us if you need a ride to the retreat or can 
 
 The UCLA conference center will fully [accommodate](http://lakearrowheadconferencecenter.ucla.edu/accommodations/) and [cater](http://lakearrowheadconferencecenter.ucla.edu/dining/) for us. The 'condolets' at the conference center will accommodate two, and offer a queen size bed with bath downstairs and a second queen size bed with bath upstairs. A living room area with wood-burning fireplace is shared by two conferees. All condolets have expansive decks with potential lake or forest views.
 
-The conference center will cater for all meals, which are covered in the cost of the retreat. They will accommodate all dietary requirements detailed during registration.
+The conference center will cater for all meals, which are covered in the cost of the retreat. They will accommodate all dietary requirements detailed during registration. Please provide your dietary restrictions [here](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=sharing).
 
 # Pre-retreat hike
 
@@ -48,7 +51,7 @@ Fill in the [Spreadsheet](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t
 
 ## Detailed program 
 
-Coming soon!
+<a href="PAPR2018_schedule(2).pdf">Retreat Program!</a>
 
 
 ## Invited Speakers
@@ -69,11 +72,13 @@ All postdocs will give a 1-minute presentations to introduce themselves and pres
 
 # Registration
 
-Registering is now closed!
+Registering is closed!
 
 # Funding
 
-Carnegie will fund 100% of the cost of the retreat for its postdocs. Caltech astronomy will fund 50% of the cost of the retreat for its postdocs, which will correspond to approximately $250. The rest of the funding will have to come from the postdoc's travel funds.
+The registration fee is $525 per person.
+Carnegie will fund 100% of the cost of the retreat for its postdocs. 
+Caltech astronomy will fund 50% of the cost of the retreat for its postdocs. The rest of the funding will have to come from the postdoc's travel funds.
 For the other institutions, there is unfortunately no funding available and thus 100% will have to come from the personal travel fund.
 
 
