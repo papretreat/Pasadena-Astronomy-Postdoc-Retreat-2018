@@ -35,7 +35,7 @@ Don't forget to bring your sportwear if you want to enjoy these activities!
 The UCLA conference center will fully [accommodate](http://lakearrowheadconferencecenter.ucla.edu/accommodations/) and [cater](http://lakearrowheadconferencecenter.ucla.edu/dining/) for us. The 'condolets' at the conference center will accommodate two, and offer a queen size bed with bath downstairs and a second queen size bed with bath upstairs. A living room area with wood-burning fireplace is shared by two conferees. All condolets have expansive decks with potential lake or forest views.
 
 You will share your room with another attendee. 
-Fill in tis [Spreadsheet](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=drive_web&ouid=106650781263756717976) if you have roommate preferences.
+Fill in this [Spreadsheet](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=drive_web&ouid=106650781263756717976) if you have roommate preferences.
 Otherwise we will assign you to a same-gender attendee.
 
 
@@ -54,7 +54,7 @@ Also, checkout our [Facebook page!](https://www.facebook.com/events/168092086530
 
 ## Detailed program 
 
-<a href="PAPR2018_schedule(2).pdf">Retreat Program!</a>
+<a href="PAPR2018_schedule(2).pdf">Retreat Program here!</a>
 
 
 ## Invited Talks
