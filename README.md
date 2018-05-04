@@ -12,10 +12,11 @@ Update: The 2018 retreat will take place Wednesday afternoon to Friday noon, **M
 
 We also have a [Facebook page!](https://www.facebook.com/events/1680920865305936/)
 
-# Funding
+# Action Items before the retreat!
 
-Carnegie will fund 100% of the cost of the retreat for its postdocs. Caltech astronomy will fund 50% of the cost of the retreat for its postdocs, which will correspond to approximately $250. The rest of the funding will have to come from the postdoc's travel funds.
-For the other institutions, there is unfortunately no funding available and thus 100% will have to come from the personal travel fund.
+- Send your Introductin slide / Picture / 100-word bio to Harish by email!
+- Fill in the [Emergency Contact Form](https://docs.google.com/forms/d/e/1FAIpQLScELUwpdTU2NrY8IeZrN8So7L08fycAd95YDwyfAeKbF6E7LA/viewform)
+- Provide your Carpool and Roommate preferences on the [Spreadsheet](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=sharing)
 
 # Location
 
@@ -23,11 +24,6 @@ The retreat will be held at the magnificent [UCLA Lake Arrowhead Conference Cent
 
 <img src="IMG_20170510_110101.jpg" class="img-responsive" alt="">
 
-# Registration
-
-Registering will guarantee you a spot if you register until the November 30th deadline. After the deadline, late registrations will be possible, but will not guarantee you a spot.
-
-Please register by filling out the [registration form here](https://docs.google.com/forms/d/e/1FAIpQLSecc2yi_9u_OLpYT5LXl2T-i2RytksHzp3CxrSUEwQkgP3jzg/viewform).
 
 # Transportation / carpools
 
@@ -42,28 +38,44 @@ The conference center will cater for all meals, which are covered in the cost of
 
 # Pre-retreat hike
 
-Similar to last year, there will be an optional pre-retreat hike in the morning before we meet at the conference center for the retreat. The [Sawmill Road Loop Trail](https://www.alltrails.com/explore/trail/us/california/sawmill-road-loop-trail) is only 3 miles long, features wonderful views, and is just a 5-minute drive from the conference center. More information will follow!
+Similar to last year, there will be an optional pre-retreat hike in the morning before we meet at the conference center for the retreat. The [Sawmill Road Loop Trail](https://www.alltrails.com/explore/trail/us/california/sawmill-road-loop-trail) is only 3 miles long, features wonderful views, and is just a 5-minute drive from the conference center. 
+
+Fill in the [Spreadsheet](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=sharing) to sign up for the hike!
 
 <img src="IMG_20170510_112850.jpg" class="img-responsive" alt="">
 
 # Program
 
-## Confirmed speakers
+## Detailed program 
+
+Coming soon!
+
+
+## Invited Speakers
+
+The invited speakers will give exciting 1h-talk about possible career path and developments that postdocs in astronomy are usually facing! They will share their experience in "typical" faculty-type and scientist-type positions, outreach and communicating with media, and alternative career outside of astronomy.
 
 - Tiffany Kataria - Scientist at Jet Propulsion Laboratory
 - Farisa Morales - Professor at California State University, Northridge 
 - Teagan Wall - Emmy-nominated writer, speaker and science communicator
 - Jake Hartman - Software Engineer at Google
 
-## Detailed program 
 
-Coming soon!
+## Talks 
 
-# Talks 
+All postdocs will give a 1-minute presentations to introduce themselves and present their research. These will be an opportunity for postdocs to develop skills in presenting compelling portraits of their work, and for the audience to learn more about the remarkable science being done around them. 
 
-All participants will give informal super-short (and super exciting) presentations on their research. These will be an opportunity for postdocs to develop skills in presenting compelling portraits of their work, and for the audience to learn more about the remarkable science being done around them. The exact format is being determined; please contact the organizing committee if you have any suggestions!
 
-We will also have a few invited speakers who will give talks regarding matters relevant to the postdoc comunity like career advice, the academic job market, and the transition to industry.
+
+# Registration
+
+Registering is now closed!
+
+# Funding
+
+Carnegie will fund 100% of the cost of the retreat for its postdocs. Caltech astronomy will fund 50% of the cost of the retreat for its postdocs, which will correspond to approximately $250. The rest of the funding will have to come from the postdoc's travel funds.
+For the other institutions, there is unfortunately no funding available and thus 100% will have to come from the personal travel fund.
+
 
 # Registered Participants
 
