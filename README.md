@@ -54,7 +54,7 @@ Also, checkout our [Facebook page!](https://www.facebook.com/events/168092086530
 
 ## Detailed program 
 
-<a href="PAPR2018_schedule(4).pdf">Retreat Program here!</a>
+<a href="PAPR2018_schedule.pdf">Retreat Program here!</a>
 
 
 ## Invited Talks
