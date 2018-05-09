@@ -93,6 +93,8 @@ For the other institutions, there is unfortunately no funding available and thus
 
 ## Registered Participants
 
+<a href="PAPR_Bios.pdf">Participant Bios</a>
+
 - Shahab Arabshahi
 - Elodie Choquet
 - Thomas Connor
