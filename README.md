@@ -30,14 +30,14 @@ Our invited speakers gave exciting 1h-talk about possible career path and develo
 <a href="PAPR2018_speaker_bios.pdf">Speakers Bios</a>
 
 - Tiffany Kataria - Scientist at Jet Propulsion Laboratory - *Scientist in Research Center*
-- Farisa Morales - Professor at California State University, Northridge - <a href="PAPR2018_Morales_ResearchNTeaching.pptx"> *Research and Teaching* </a>
 - Jake Hartman - Software Engineer at Google - <a href="PAPR2018_Hartman_ Astro-to-Industry.pdf">*Astro to Industry*</a>
+- Farisa Morales - Professor at California State University, Northridge - <a href="PAPR2018_Morales_ResearchNTeaching.pptx"> *Research and Teaching* </a>
 
 ## Group Projects
 
 - Overcoming inconscious bias in astronomy
-- Alternative/Active teaching methods
 - <a href="PARC2018_Software-eng-interview-guidelines.pdf">Software engineer Job interview guidelines</a> and <a href="PAPR2018_ Sample tech interview questions.pdf">Sample of tech interview questions</a>
+- Alternative/Active teaching methods
 
 
 ## Introduction Talks 
