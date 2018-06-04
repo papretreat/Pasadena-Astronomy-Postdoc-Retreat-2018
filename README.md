@@ -1,6 +1,6 @@
 # PAPR 2018 is over!
 
-The retreat is now over! Thanks everyone for coming and participating! We hope you found it useful, and that you now know all your colleagues working within 5 miles of you!
+The retreat is now over! Thanks everyone for coming and participating! We hope you found it useful, and that you now know all your astro-postdoc colleagues within 5 miles of you!
 
 You will find below all the information we used to organize the retreat, and most importantly, links to our invited speakers presentations, to the projects slides, and our social medias.
 
@@ -15,6 +15,7 @@ After 3 days of bonding over science, murder hunting, and beach volley, is it al
 
 <a href="PAPR2018_schedule_Final.pdf">The final Program</a>, after many live edits during the retreat :)
 
+
 ## Social media
 
 - Linkedin
@@ -26,11 +27,11 @@ After 3 days of bonding over science, murder hunting, and beach volley, is it al
 
 Our invited speakers gave exciting 1h-talk about possible career path and developments that postdocs in astronomy are usually facing. **See below links to their Speakers' presentations!**
 
-- Tiffany Kataria - Scientist at Jet Propulsion Laboratory - Scientist in Research Center
-- Farisa Morales - Professor at California State University, Northridge - <a href="PAPR2018_Morales_ResearchNTeaching.pptx">Research and Teaching</a>
-- Jake Hartman - Software Engineer at Google - <a href="PAPR2018_Hartman_ Astro-to-Industry.pdf">Astro to Industry</a>
+- Tiffany Kataria - Scientist at Jet Propulsion Laboratory - *Scientist in Research Center*
+- Farisa Morales - Professor at California State University, Northridge - <a href="PAPR2018_Morales_ResearchNTeaching.pptx"> *Research and Teaching* </a>
+- Jake Hartman - Software Engineer at Google - <a href="PAPR2018_Hartman_ Astro-to-Industry.pdf">*Astro to Industry*</a>
 
-## Projects on carrer development
+## Group Projects
 
 - Overcoming inconscious bias in astronomy
 - Alternative/Active teaching methods
@@ -52,7 +53,7 @@ Similar to last year, we had an optional pre-retreat hike in the morning before 
 
 
 
-# What is the Pasadena Astronomy Postdoc Retreat?
+# What is PAPR?
 
 The purpose of this annual informal meeting is to bring together postdocs from the various astrononomy institutes in Pasadena (Carnegie, Caltech Astro/GPS, IPAC, and JPL), and to get to know each other's science. Building on previous years' experience, the retreat is an opportunity to cross institutional boundaries, foster new collaborations, and enrich the experience of being an astronomy postdoc in the City of Astronomy.
 
