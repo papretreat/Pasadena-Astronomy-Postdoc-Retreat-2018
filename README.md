@@ -6,14 +6,14 @@ You will find below all the information we used to organize the retreat, and mos
 
 ## What's next? 
 After 3 days of bonding over science, murder hunting, and beach volley, is it already all over? **Not at all!** Keeping our community strong and livy is fundamental, in our opinion. If you think so too, here are several other opportunities to cross the boundaries between our institutes:
-- **Postdoc Mixers!** Every now and then, hosted each time in one of our institute, a great opportunity to get together again regularly. Next one is June t, 5-7pm at IPAC, rooftop of Keith Spalding building!
-- **Astro on Tap!** Every first Monday of the month, at Der Wolfskopt Pub, to give 10-15mn public talks and support our fellow postdocs! Next one is [June 4th](http://www.astro.caltech.edu/outreach/), 7:30-9:30pm! 
+- **Postdoc Mixers!** Every now and then, hosted each time in one of our institute, a great opportunity to get together again regularly. Next one is on <a href="Postdoc_Mixer_flyer_June2018.pdf">June 7t</a>, 5-7pm at IPAC, rooftop of Keith Spalding building!
+- **Astro on Tap!** Every first Monday of the month, at Der Wolfskopt Pub, to give 10-15mn public talks and support our fellow postdocs! Next one is on [June 4th](http://www.astro.caltech.edu/outreach/), 7:30-9:30pm! 
 - **PAPR 2019!** If you enjoyed this year's retreat, and are looking forward to next year's edition, it's not going to happen by itself! Several of your servant SOC members will be gone and the retreat need fresh volunteers to be as awesome as ever! We are counting on **you**! 
 
 
 # PAPR 2018 Program and useful links
 
-<a href="PAPR2018_schedule(7).pdf">The final Program</a>, after many live edits during the retreat :)
+<a href="PAPR2018_schedule_Final.pdf">The final Program</a>, after many live edits during the retreat :)
 
 ## Social media
 
@@ -27,14 +27,14 @@ After 3 days of bonding over science, murder hunting, and beach volley, is it al
 Our invited speakers gave exciting 1h-talk about possible career path and developments that postdocs in astronomy are usually facing. **See below links to their Speakers' presentations!**
 
 - Tiffany Kataria - Scientist at Jet Propulsion Laboratory - Scientist in Research Center
-- Farisa Morales - Professor at California State University, Northridge - Research and Teaching
-- Jake Hartman - Software Engineer at Google - Astro to Industry
+- Farisa Morales - Professor at California State University, Northridge - <a href="PAPR2018_Morales_ResearchNTeaching.pptx">Research and Teaching</a>
+- Jake Hartman - Software Engineer at Google - <a href="PAPR2018_Hartman_ Astro-to-Industry.pdf">Astro to Industry</a>
 
 ## Projects on carrer development
 
 - Overcoming inconscious bias in astronomy
 - Alternative/Active teaching methods
-- Software engineer Job interviews
+- <a href="PARC2018_Software-eng-interview-guidelines.pdf">Software engineer Job interview guidelines</a> and <a href="PAPR2018_ Sample tech interview questions.pdf">Sample of tech interview questions</a>
 
 
 ## Introduction Talks 
