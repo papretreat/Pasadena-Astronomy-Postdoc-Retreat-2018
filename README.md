@@ -6,9 +6,9 @@ You will find below all the information we used to organize the retreat, and mos
 
 ## What's next? 
 After 3 days of bonding over science, murder hunting, and beach volley, is it already all over? **Not at all!** Keeping our community strong and livy is fundamental, in our opinion. If you think so too, here are several other opportunities to cross the boundaries between our institutes:
-- **Postdoc Mixers!** Every now and then, hosted each time in one of our institute, a great opportunity to get together again regularly. Next one is on <a href="Postdoc_Mixer_flyer_June2018.pdf">June 7t</a>, 5-7pm at IPAC, rooftop of Keith Spalding building!
+- **Postdoc Mixers!** Every now and then, hosted each time in one of our institute, a great opportunity to get together again regularly. Next one is on <a href="Postdoc_Mixer_flyer_June2018.pdf">June 7th</a>, 5-7pm at IPAC, rooftop of Keith Spalding building!
 - **Astro on Tap!** Every first Monday of the month, at Der Wolfskopt Pub, to give 10-15mn public talks and support our fellow postdocs! Next one is on [June 4th](http://www.astro.caltech.edu/outreach/), 7:30-9:30pm! 
-- **PAPR 2019!** If you enjoyed this year's retreat, and are looking forward to next year's edition, it's not going to happen by itself! Several of your servant SOC members will be gone and the retreat need fresh volunteers to be as awesome as ever! We are counting on **you**! 
+- **PAPR 2019!** If you enjoyed this year's retreat, and are looking forward to next year's edition, it's not going to happen by itself! Several of your servant SOC members will be gone and the retreat need fresh volunteers to be as awesome as ever! **We are counting on you**! 
 
 
 # PAPR 2018 Program and useful links
@@ -27,6 +27,8 @@ After 3 days of bonding over science, murder hunting, and beach volley, is it al
 
 Our invited speakers gave exciting 1h-talk about possible career path and developments that postdocs in astronomy are usually facing. **See below links to their Speakers' presentations!**
 
+<a href="PAPR2018_speaker_bios.pdf">Speakers Bios</a>
+
 - Tiffany Kataria - Scientist at Jet Propulsion Laboratory - *Scientist in Research Center*
 - Farisa Morales - Professor at California State University, Northridge - <a href="PAPR2018_Morales_ResearchNTeaching.pptx"> *Research and Teaching* </a>
 - Jake Hartman - Software Engineer at Google - <a href="PAPR2018_Hartman_ Astro-to-Industry.pdf">*Astro to Industry*</a>
@@ -40,10 +42,48 @@ Our invited speakers gave exciting 1h-talk about possible career path and develo
 
 ## Introduction Talks 
 
-All postdocs gave a 1-minute presentations to introduce themselves and present their research. **See below the links to the Postdocs' introduction slides and bio!**
+All postdocs gave a 1-minute presentations to introduce themselves and present their research. **See below the links to the Postdocs' bios!**
 
+<a href="PAPR_Bios.pdf">Participants Bios</a>
 
-<a href="PAPR_Bios.pdf">Participant Bios</a>
+- Abhishek Prakash, IPAC
+- Albert Izard, JPL
+- Alex Merson, JPL
+- Andreas Faisst, IPAC
+- Anne Medling, Caltech
+- Arpita Roy, Caltech
+- Cameron Hummels, Caltech
+- Coral Wheeler, Caltech
+- Daniel Lenz, JPL
+- Daniel Paardekooper, JPL
+- Decker French, Carnegie
+- Elodie Choquet, Caltech
+- Eve Lee, Caltech
+- Gina Panopoulou, Caltech
+- Hannah Earnshaw, Caltech
+- Harish Vedantham, Caltech
+- Iary Davidzon, IPAC
+- Jacqueline McCleary, JPL
+- Johanna Teske, Carnegie
+- Kirsten Larson, IPAC
+- Maria Drout, Carnegie
+- Marianne Heida, Caltech
+- Marie Ygouf, IPAC
+- Max Millar-Blanchaer, JPL
+- Nina Hernitschek, Caltech
+- Riley Connors, Caltech
+- Rohini Giles, JPL
+- Rosalie McGurk, Carnegie
+- Sean Mills, Caltech
+- Sebastian Kiehlmann, Caltech
+- Shahab Arabshahi, JPL
+- Shea Garrison-Kimmel, Caltech
+- Stefano Pasetto, Carnegie
+- Thomas Connor, Carnegie
+- Vikram Ravi, Caltech
+- Virginie Faramaz, JPL
+
+<img src="Group_Picture.JPG" class="img-responsive" alt="">
 
 ## Pre-retreat hike
 
@@ -60,59 +100,7 @@ The purpose of this annual informal meeting is to bring together postdocs from t
 This year's retreat was held on May 9-11th 2018. The program included a mix of brief research talks by attendees, 3 career development talks by our invited speakers, and several social gatherings. 
 
 
-# Registration
-
-The registration fee is $525 per person.
-Carnegie funded 100% of the cost of the retreat for its postdocs. 
-Caltech astronomy funded 50% of the cost of the retreat for its postdocs. The rest of the funding have to come from the postdoc's travel funds.
-For the other institutions, there was unfortunately no funding available for this year's retreat, and thus 100% had to come from the personal travel fund.
-
-
-## Registered Participants
-
-<a href="PAPR_Bios.pdf">Participant Bios</a>
-
-- Shahab Arabshahi
-- Elodie Choquet
-- Thomas Connor
-- Riley Connors
-- Trevor David
-- Iary Davidzon
-- Maria Drout
-- Hannah Earnshaw
-- Andreas Faisst
-- Virginie Faramaz
-- Decker French
-- Shea Garrison-Kimmel
-- Rohini Giles
-- Marianne Heida
-- Nina Hernitschek
-- Cameron Hummels
-- Albert Izard
-- Sebastian Kiehlmann
-- Kirsten Larson
-- Eve Lee
-- Daniel Lenz
-- Jacqueline McCleary
-- Rosalie McGurk
-- Anne Medling
-- Alex Merson
-- Max Millar-Blanchaer
-- Sean Mills
-- Daniel Paardekooper
-- Gina Panopoulou
-- Stefano Pasetto
-- Abhishek Prakash
-- Vikram Ravi
-- Arpita Roy
-- Garreth Ruane
-- Allison Strom
-- Johanna Teske
-- Harish Vedantham
-- Coral Wheeler
-- Marie Ygouf
-
-# Organizing Committee
+# 2018 Organizing Committee
 
 - Elodie Choquet (JPL/Caltech)
 - Daniel Lenz (JPL/Caltech)
@@ -120,6 +108,15 @@ For the other institutions, there was unfortunately no funding available for thi
 - Stefano Pasetto (Carnegie)
 - Harish Vedantham (Caltech)
 - Marie Ygouf (IPAC/Caltech)
+
+
+# Registration
+
+The registration fee is $525 per person.
+Carnegie funded 100% of the cost of the retreat for its postdocs. 
+Caltech astronomy funded 50% of the cost of the retreat for its postdocs. The rest of the funding have to come from the postdoc's travel funds.
+For the other institutions, there was unfortunately no funding available for this year's retreat, and thus 100% had to come from the personal travel fund.
+
 
 
 # The Venue
