@@ -83,7 +83,7 @@ All postdocs gave a 1-minute presentations to introduce themselves and present t
 - Vikram Ravi, Caltech
 - Virginie Faramaz, JPL
 
-<img src="Group_Picture.JPG" class="img-responsive" alt="">
+<img src="Group_Picture_1.JPG" class="img-responsive" alt="">
 
 ## Pre-retreat hike
 
