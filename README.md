@@ -6,8 +6,8 @@ You will find below all the information we used to organize the retreat, and mos
 
 ## What's next? 
 After 3 days of bonding over science, murder hunting, and beach volley, is it already all over? **Not at all!** Keeping our community strong and livy is fundamental, in our opinion. If you think so too, here are several other opportunities to cross the boundaries between our institutes:
-- **Postdoc Mixers!** Every now and then, hosted each time in one of our institute, a great opportunity to get together again regularly. Next one is on <a href="Postdoc_Mixer_flyer_June2018.pdf">June 7th</a>, 5-7pm at IPAC, rooftop of Keith Spalding building!
-- **Astro on Tap!** Every first Monday of the month, at Der Wolfskopt Pub, to give 10-15mn public talks and support our fellow postdocs! Next one is on [June 4th](http://www.astro.caltech.edu/outreach/), 7:30-9:30pm! 
+- **Postdoc Mixers!** Every 3 months, an informal get-together event to connect the astro-postodoc Pasadena community, with a few short science talks the beer-networking. IPAC, Carnegie, and Caltech are taking turns to host this 2h-long meeting.  <a href="Postdoc_Mixer_flyer_June2018.pdf">The last one</a> was hosted at IPAC, can't wait for the next one!
+- **Astro on Tap!** Every first Monday of the month, at Der Wolfskopt Pub, where a few of us give 10-15mn public talks and the rest of support our fellow postdocs! Next one is scheduled [July 16th](http://www.astro.caltech.edu/outreach/)! 
 - **PAPR 2019!** If you enjoyed this year's retreat, and are looking forward to next year's edition, it's not going to happen by itself! Several of your servant SOC members will be gone and the retreat need fresh volunteers to be as awesome as ever! **We are counting on you**! 
 
 
@@ -15,12 +15,12 @@ After 3 days of bonding over science, murder hunting, and beach volley, is it al
 
 <a href="PAPR2018_schedule_Final.pdf">The final Program</a>, after many live edits during the retreat :)
 
+[Secret Person Ice Breaker revealed!](https://docs.google.com/spreadsheets/d/1vlquyzlOidhSNP04XttPV6KuDWjflx6v9FtRKHp2bGY/edit?usp=drive_web&ouid=106650781263756717976)
 
 ## Social media
 
-- Linkedin
+- [Linkedin group](https://www.linkedin.com/groups/13599742/profile)
 - [Facebook page](https://www.facebook.com/events/1680920865305936/)
-- Twitter
 
 
 ## Invited Talks on career development
