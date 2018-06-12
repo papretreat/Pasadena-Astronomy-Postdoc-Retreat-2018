@@ -89,8 +89,6 @@ All postdocs gave a 1-minute presentations to introduce themselves and present t
 
 Similar to last year, we had an optional pre-retreat hike in the morning before the retreat. The [Sawmill Road Loop Trail](https://www.alltrails.com/explore/trail/us/california/sawmill-road-loop-trail) is only 3 miles long, features wonderful views, and is just a 5-minute drive from the conference center. 
 
-<img src="IMG_20170510_112850.jpg" class="img-responsive" alt="">
-
 
 
 # What is PAPR?
