@@ -13,9 +13,9 @@ After 3 days of bonding over science, murder hunting, and beach volley, is it al
 
 # PAPR 2018 Program and useful links
 
-<a href="PAPR2018_schedule_Final.pdf">The final Program</a>, after many live edits during the retreat :)
+- <a href="PAPR2018_schedule_Final.pdf">The final Program</a>, after many live edits during the retreat :)
+- [Secret Person and clues](https://docs.google.com/spreadsheets/d/1vlquyzlOidhSNP04XttPV6KuDWjflx6v9FtRKHp2bGY/edit?usp=drive_web&ouid=106650781263756717976) revealed!
 
-[Secret Person Ice Breaker revealed!](https://docs.google.com/spreadsheets/d/1vlquyzlOidhSNP04XttPV6KuDWjflx6v9FtRKHp2bGY/edit?usp=drive_web&ouid=106650781263756717976)
 
 ## Social media
 
