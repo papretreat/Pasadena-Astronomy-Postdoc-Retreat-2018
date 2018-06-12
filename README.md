@@ -5,7 +5,9 @@ The retreat is now over! Thanks everyone for coming and participating! We hope y
 You will find below all the information we used to organize the retreat, and most importantly, links to our invited speakers presentations, to the projects slides, and our social medias.
 
 ## What's next? 
-After 3 days of bonding over science, murder hunting, and beach volley, is it already all over? **Not at all!** Keeping our community strong and livy is fundamental, in our opinion. If you think so too, here are several other opportunities to cross the boundaries between our institutes:
+After 3 days of bonding over science, murder hunting, and beach volley, is it already all over? 
+
+**Not at all!** Keeping our community strong and livy is fundamental, in our opinion. If you think so too, here are several other opportunities to cross the boundaries between our institutes:
 - **Postdoc Mixers!** Every 3 months, an informal get-together event to connect the astro-postodoc Pasadena community, with a few short science talks the beer-networking. IPAC, Carnegie, and Caltech are taking turns to host this 2h-long meeting.  <a href="Postdoc_Mixer_flyer_June2018.pdf">The last one</a> was hosted at IPAC, can't wait for the next one!
 - **Astro on Tap!** Every first Monday of the month, at Der Wolfskopt Pub, where a few of us give 10-15mn public talks and the rest of support our fellow postdocs! Next one is scheduled [July 16th](http://www.astro.caltech.edu/outreach/)! 
 - **PAPR 2019!** If you enjoyed this year's retreat, and are looking forward to next year's edition, it's not going to happen by itself! Several of your servant SOC members will be gone and the retreat need fresh volunteers to be as awesome as ever! **We are counting on you**! 
@@ -136,11 +138,11 @@ Don't forget to bring your sportwear if you want to enjoy these activities!
 
 ## Accommodations and meals
 
-The UCLA conference center fully [accommodates](http://lakearrowheadconferencecenter.ucla.edu/accommodations/) and [cater](http://lakearrowheadconferencecenter.ucla.edu/dining/) for us. The 'condolets' at the conference center accommodate two people, and offer a queen size bed with bath downstairs and a second queen size bed with bath upstairs. A living room area with wood-burning fireplace is shared by two conferees. All condolets have large decks with potential lake or forest views.
+The UCLA conference center fully [accommodates](http://lakearrowheadconferencecenter.ucla.edu/accommodations/) and [caters](http://lakearrowheadconferencecenter.ucla.edu/dining/) for us. The 'condolets' at the conference center accommodate two people, and offer a queen size bed with bath downstairs and a second queen size bed with bath upstairs. A living room area with wood-burning fireplace is shared by two conferees. All condolets have large decks with potential lake or forest views.
 
 Attendees share their room with another attendee. 
 We used this [Spreadsheet](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=drive_web&ouid=106650781263756717976) to organize roommate preferences.
-Otherwise roommates were assigned on a same-gender basis.
+Otherwise roommates are assigned on a same-gender basis.
 
 
 The conference center caters for all meals, which are covered in the cost of the retreat. They accommodate all dietary requirements detailed during registration. Dietary restrictions were listed [here](https://docs.google.com/spreadsheets/d/1d5grzYo76jLK4t76VM5wbl9XyPsMx03dwn5YkGQGnqk/edit?usp=sharing).
