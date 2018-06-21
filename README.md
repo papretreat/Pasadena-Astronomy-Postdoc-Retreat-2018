@@ -50,7 +50,7 @@ All postdocs gave a 1-minute presentations to introduce themselves and present t
 
 - Abhishek Prakash, IPAC
 - Albert Izard, JPL
-- Alex Merson, JPL
+- <a href="intro_slides/alex_merson.pdf">Alex Merson, JPL</a>
 - Andreas Faisst, IPAC
 - Anne Medling, Caltech
 - Arpita Roy, Caltech
