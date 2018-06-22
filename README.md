@@ -70,7 +70,7 @@ All postdocs gave a 1-minute presentations to introduce themselves and present t
 - <a href="intro_slides/Kirsten_Larson.pdf">Kirsten Larson, IPAC<a>
 - Maria Drout, Carnegie
 - <a href="intro_slides/marianne_heida.pdf">Marianne Heida, Caltech<a>
-- Marie Ygouf, IPAC
+- <a href="intro_slides/Marie_Ygouf.pdf">Marie Ygouf, IPAC<a>
 - <a href="intro_slides/Max_Millar-B.pdf">Max Millar-Blanchaer, JPL<a>
 - <a href="intro_slides/Nina_Hernitschek.pdf">Nina Hernitschek, Caltech<a>
 - <a href="intro_slides/Riley_Connors.pdf">Riley Connors, Caltech<a>
