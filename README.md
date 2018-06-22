@@ -44,7 +44,7 @@ Our invited speakers gave exciting 1h-talk about possible career path and develo
 
 ## Introduction Talks 
 
-All postdocs gave a 1-minute presentations to introduce themselves and present their research. **See below the links to the Postdocs' bios!**
+All postdocs gave a 1-minute presentations to introduce themselves and present their research. **See below for the links to the Postdocs' bios and their 1-minute presentation (if available)!**
 
 <a href="PAPR_Bios.pdf">Participants Bios</a>
 
@@ -84,6 +84,8 @@ All postdocs gave a 1-minute presentations to introduce themselves and present t
 - <a href="intro_slides/Thomas_Connor.pdf">Thomas Connor, Carnegie<a>
 - <a href="intro_slides/Vikram_Ravi.pdf">Vikram Ravi, Caltech<a>
 - <a href="intro_slides/Virginie_Faramaz.pdf">Virginie Faramaz, JPL<a>
+
+## Retreat photo
 
 <img src="Group_Picture_1.JPG" class="img-responsive" alt="">
 
